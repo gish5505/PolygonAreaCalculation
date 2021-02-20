@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\bin\Debug\PolygonAreaCalculation.exe.config
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\bin\Debug\PolygonAreaCalculation.exe
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\bin\Debug\PolygonAreaCalculation.pdb
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\bin\Debug\NPolyBool.dll
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\obj\Debug\PolygonAreaCalculation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\obj\Debug\PolygonAreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\obj\Debug\PolygonAreaCalculation.csproj.CopyComplete
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\obj\Debug\PolygonAreaCalculation.exe
+C:\Users\Admin\source\repos\PolygonAreaCalculation\PolygonAreaCalculation\obj\Debug\PolygonAreaCalculation.pdb
