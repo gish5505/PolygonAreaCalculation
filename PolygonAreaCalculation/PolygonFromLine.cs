@@ -98,6 +98,7 @@ namespace PolygonAreaCalculation
 
                         secondaryRightAboveYPoint = new Point(primaryPoints[1].X + (width / 2) * Math.Sin(angleGrad), primaryPoints[1].Y + (width / 2) * Math.Cos(angleGrad));
                         secondaryRightBelowYPoint = new Point(primaryPoints[1].X - (width / 2) * Math.Sin(angleGrad), primaryPoints[1].Y - (width / 2) * Math.Cos(angleGrad));
+                        
                         break;
                     }
                 case var _ when (double.IsInfinity(angleCoefficient)):
@@ -107,7 +108,7 @@ namespace PolygonAreaCalculation
 
                         secondaryRightAboveYPoint = new Point(secondaryLeftAboveYPoint.X, primaryPoints[1].Y);
                         secondaryRightBelowYPoint = new Point(secondaryLeftBelowYPoint.X, primaryPoints[1].Y);
-                        //counter-clockwise
+                        
                         break;
                     }
                 case var _ when (angleCoefficient == 0):
@@ -117,7 +118,7 @@ namespace PolygonAreaCalculation
 
                         secondaryRightAboveYPoint = new Point(primaryPoints[1].X, primaryPoints[0].Y + width / 2);
                         secondaryRightBelowYPoint = new Point(primaryPoints[1].X, primaryPoints[0].Y - width / 2);
-                        //counter-clockwise
+                        
                         break;
                     }
             }
